@@ -1,2 +1,2 @@
-# contact-me-form
-A simple contact me form
+# Contact Me Form
+A simple contact me form for Wordpress
